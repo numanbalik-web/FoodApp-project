@@ -1,38 +1,65 @@
-🍔 FoodApp
+# 🍔 FoodApp
 
-Modern ve responsive bir Food App arayüzü.
-Bu projede HTML, CSS ve özellikle JavaScript kullanılarak etkileşimli ve dinamik bir kullanıcı deneyimi oluşturuldu.
-🎬 Demo Preview
-<img src="screen/demovideo.gif" width="100%">
-🖥 Fullscreen View
-<img src="screen/fullscreen.png" width="100%">
-🧩 Interface Screens
-<img src="screen/screen1.png" width="80%">
-<img src="screen/screen2.png" width="80%">
-<img src="screen/screen3.png" width="80%">
-<img src="screen/screen4.png" width="80%">
-🧠 Öne Çıkan Nokta: JavaScript
+<p align="center">
+  <img src="screen/demovideo.gif" width="100%" />
+</p>
 
-Bu projede JavaScript özellikle ön planda tutulmuştur:
-	•	DOM Manipülasyonu
-	•	Event Handling
-	•	Dinamik veri işleme
-	•	Etkileşimli kullanıcı deneyimi
-	•	Modüler JS yaklaşımı
+---
 
-HTML ve CSS’in üzerine güçlü bir JavaScript katmanı eklenerek frontend yapısı daha profesyonel bir seviyeye taşınmıştır.
-🛠 Technologies Used
-	•	🟧 HTML
-	•	🎨 CSS
-	•	⚡ JavaScript
+## 📌 Project Overview
 
-✨ Project Highlights
-	•	Responsive tasarım
-	•	Temiz ve okunabilir kod yapısı
-	•	Modern UI düzeni
-	•	Dinamik içerik üretimi
-	•	Kullanıcı etkileşimli yapı
-  📬 Contact
+**FoodApp** is a modern and responsive food discovery web application built using **HTML, CSS, and JavaScript**.
+
+The application allows users to browse meals dynamically, view detailed pages, and interact with structured data in a clean UI environment.
+
+This project focuses heavily on JavaScript logic, DOM manipulation, and data-driven rendering.
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5 – Semantic structure
+- CSS3 – Responsive layout & modern UI styling
+- JavaScript (Vanilla JS) – Core functionality
+- JSON (db.json) – Data simulation
+
+---
+
+## 🧠 JavaScript Highlights
+
+This project emphasizes JavaScript functionality including:
+
+- Dynamic DOM rendering
+- Fetching and handling local JSON data
+- Page routing logic between `index.html` and `detail.html`
+- Event listeners & interactive UI updates
+- Clean and modular JS structure
+
+The goal was to simulate a small-scale real-world frontend application workflow without using external frameworks.
+
+---
+
+## 🖼 Screenshots
+
+### 🏠 Home Page
+<img src="screen/screen1.png" width="100%" />
+
+### 🍽 Food Grid
+<img src="screen/screen2.png" width="100%" />
+
+### 📋 Detail View
+<img src="screen/screen3.png" width="100%" />
+
+### 📱 Responsive Design
+<img src="screen/screen4.png" width="100%" />
+
+### 🖥 Fullscreen Preview
+<img src="screen/fullscreen.png" width="100%" />
+
+---
+
+## 📂 Project Structure
+
   🎓 Teşekkür
 
 Bu süreçte aldığım eğitimin kalitesi ve sistemli ilerleyişi benim için gerçekten belirleyici oldu.
@@ -42,6 +69,8 @@ Başta https://github.com/isveckrali olmak üzere, teknik disiplini, detaylara v
 Ayrıca https://github.com/Udemig Eğitim Platformu’na da teşekkür ederim. Yapılandırılmış müfredatı, uygulama temelli ilerleyişi ve kariyer odaklı yaklaşımı sayesinde teoriyi pratiğe dönüştürme fırsatı buldum. Bu model, öğrenme sürecini sistemli ve sürdürülebilir hale getiriyor.
 
 Emeği geçen herkese teşekkür ederim.
+
+📬 Contact
 
 📧 Mail: numanbalik72@gmail.com
 💼 LinkedIn: https: http://linkedin.com/in/numan-balik-sverige
